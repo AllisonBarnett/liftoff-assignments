@@ -13,6 +13,6 @@ https://github.com/AllisonBarnett
 https://www.linkedin.com/in/allison-barnett-web-developer/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+file:///C:/Users/abarn/Downloads/Allison%20Barnett%20-%20Resume%20LC101.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
